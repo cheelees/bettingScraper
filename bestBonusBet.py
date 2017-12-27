@@ -2,6 +2,7 @@ from sportsbet import createSportsBetNBAMatchups
 from crownBet import createCrownBetNBAMatchups
 from neds import createNedsNBAMatchup
 from tabulate import tabulate
+import sys
 agencyFunctions = {'CrownBet' : createCrownBetNBAMatchups, 'SportsBet': createSportsBetNBAMatchups,
 'Neds': createNedsNBAMatchup}
 
@@ -97,7 +98,18 @@ def printBets(betList):
 
     return 0
 
-
+def calculateBet(betList):
+    print("\n")
+    bonusBet = int(input("Enter how much your bonus bet is, or 0 to exit: "))
+    if not bonusBet:
+        sys.exit()
+    else:
+        odds1 = float(betList[2])
+        odds2 = float(betList[5])
+        bet = ((bonusBet*odds1) - bonusBet)/odds2
+        print("Place your bonus bet on {}, and put ${:.2f} on {}".format(
+        betList[1], bet, betList[4]))
+    return 0
 #First we choose which agency has the bonus bet
 agencies = ["CrownBet", "SportsBet", "Neds"]
 for agency in range(len(agencies)):
@@ -108,3 +120,4 @@ bonusBetAgency = agencies[int(input("Which agency has the bonus bet? "))-1]
 betList = findBet(bonusBetAgency)
 #then print it out nicely
 printBets(betList)
+calculateBet(betList[0])
