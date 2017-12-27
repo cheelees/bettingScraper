@@ -2,8 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-
-
 def createSportsBetNBAMatchups():
     #Open up the page and parse it using beautifulsoup
     r = requests.get("https://www.sportsbet.com.au/betting/basketball-us?QuickLinks")
@@ -20,7 +18,6 @@ def createSportsBetNBAMatchups():
 
         #Since the info we need is inside spans, get all the spans
         teams = team.findAll('span')
-        print(teams)
         #And then add the team name + their odds into the matchup array
         teamName = teams[0].text
         teamOdds = float(teams[1].text.replace('\n', ''))
@@ -32,15 +29,12 @@ def createSportsBetNBAMatchups():
             completedMatchup = False
         else:
             #If the matchup is completed, add the team into the
-            #currMatchup tuple, and then add that tuple into the matchups tuple.
+            #currMatchup tuple, and then add that tuple into the matchups tuple -
+            #sorted by highest odds first.
             #then reset.
             currMatchup = (nameAndOdds1, nameAndOdds)
-            matchups.append(currMatchup)
+            sortedMatchup = sorted(currMatchup, key=lambda odds: odds[1], reverse = True)
+            matchups.append(sortedMatchup)
             currMatchup = ()
             completedMatchup = True
-
-
-
     return matchups
-
-print(createSportsBetNBAMatchups())

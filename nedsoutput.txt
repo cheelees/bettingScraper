@@ -1,0 +1,252 @@
+<!DOCTYPE html><!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]--><!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]--><!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]--><!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" class="no-js wf-industry-i6-active wf-industry-i9-active wf-active" lang=""><!--<![endif]--><head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><title>Neds - Basketball</title><meta name="description" content="Bet on Horse Racing, AFL, NRL &amp; Sports with Neds. 60 Second Quick &amp; Easy Signup -  Start Now &amp; Get a First Bet Match Up to $100 (T&amp;Cs apply)" /><meta name="google-site-verification" content="zzDDUGsfEjjepC41F3u2txjjEwh1SKHEHPCYMf9qU0I" /><meta name="apple-itunes-app" content="app-id=1263814273" /><meta name="viewport" content="viewport-fit=cover,width=device-width,user-scalable=0,initial-scale=1,maximum-scale=1" /><meta name="treaty-io-verification" content="3846cb9bb77c827ee5d6849d6dad54d9ec6f499f6c968bd8398f66e3d9d9a6cc" /><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script src="https://rules.quantcount.com/rules-p-Anv7gms_5QUsm.js" async=""></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_48" src="https://amplify.outbrain.com/cp/obtp.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_46" src="https://secure.quantserve.com/quant.js"></script><script src="https://connect.facebook.net/signals/config/848648981982252?v=2.8.6&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/iwl.js?v=2.8.6" async=""></script><script type="text/javascript" async="" charset="utf-8" id="utag_30" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" charset="utf-8" id="tealium-tag-7110" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_59" src="//www.googletagmanager.com/gtag/js"></script><script src="//tags.tiqcdn.com/utag/neds/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">window.onload = function () {
+        const isInIframe = window.top !== window.self;
+        if (isInIframe) {
+          window.top.location = window.location;
+        }
+      };</script><meta name="mobile-web-app-capable" content="yes" /><link rel="apple-touch-icon" href="/favicon-144.png" /><link rel="shortcut-icon" href="/favicon.png" /><meta name="theme-color" content="#ff7800" /><script src="https://use.typekit.net/cbz7jmg.js"></script><script>/**
+       * Detect IE.
+       * @returns {Number|Boolean} version of IE (11 or less) or Edge (12 or greater), otherwise false.
+       */
+      function detectIE() {
+        const ua = window.navigator.userAgent;
+        const msie = ua.indexOf('MSIE ');
+        if (msie &gt; 0) {
+          // IE 10 or older =&gt; return version number
+          return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+        }
+
+        const trident = ua.indexOf('Trident/');
+        if (trident &gt; 0) {
+          // IE 11 =&gt; return version number
+          const rv = ua.indexOf('rv:');
+          return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+        }
+
+        const edge = ua.indexOf('Edge/');
+        if (edge &gt; 0) {
+          // Edge (IE 12+) =&gt; return version number
+          return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+        }
+
+        // other browser
+        return false;
+      }</script><style type="text/css">.tk-industry{font-family:"industry",sans-serif;}</style><style type="text/css">@font-face{font-family:tk-industry-i6;src:url(https://use.typekit.net/af/dc96ce/00000000000000003b9adf57/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3) format("woff2"),url(https://use.typekit.net/af/dc96ce/00000000000000003b9adf57/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3) format("woff"),url(https://use.typekit.net/af/dc96ce/00000000000000003b9adf57/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3) format("opentype");font-weight:600;font-style:italic;}@font-face{font-family:tk-industry-i9;src:url(https://use.typekit.net/af/e2ba7c/00000000000000003b9adf5d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3) format("woff2"),url(https://use.typekit.net/af/e2ba7c/00000000000000003b9adf5d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3) format("woff"),url(https://use.typekit.net/af/e2ba7c/00000000000000003b9adf5d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3) format("opentype");font-weight:900;font-style:italic;}</style><script>try { Typekit.load({ async: true }); } catch (e) {}</script><script src="https://treaty.io/beta/treaty.js"></script><script type="text/javascript" async="">// 86acbd31cd7c09cf30acb66d2fbedc91daa48b86:1510810327.42
+    !function(n,t,c,e,u){function r(n){try{f=n(u)}catch(n){return h=n,void i(p,n)}i(s,f)}function i(n,t){for(var c=0;c&lt;n.length;c++)d(n[c],t);
+    }function o(n,t){return n&amp;&amp;(f?d(n,f):s.push(n)),t&amp;&amp;(h?d(t,h):p.push(t)),l}function a(n){return o(!1,n)}function d(t,c){
+    n.setTimeout(function(){t(c)},0)}var f,h,s=[],p=[],l={then:o,catch:a,_setup:r};n[e]=l;var v=t.createElement("script");
+    v.src=c,v.async=!0,v.id="_uasdk",v.rel=e,t.head.appendChild(v)}(window,document,'https://web-sdk.urbanairship.com/notify/v1/ua-sdk.min.js',
+      'UA', {
+        appKey: "LU8ikWyvTOKBzRV7uDeEYA",
+        token: "MTpMVThpa1d5dlRPS0J6UlY3dURlRVlBOmR3Y3lvOEJyaTRIV1FtandKRWNvYnVyR25mLWx6NUxOcVdXT3Zwd1FfdEE",
+        vapidPublicKey: "BG-N3DNhHjxvWPI6rWhrWGKfs1mNTxICswhngvOMuPz441y9cWWbzQM1Rwd_4rfRzDNxG2H9yQF4qirNL7bk28I="
+      });</script><script src="https://web-sdk.urbanairship.com/notify/v1/ua-sdk.min.js" async="" id="_uasdk"></script><style type="text/css">html.iphonex {
+        margin-top: 36px;
+      }
+
+      html.iphone {
+        margin-top: 20px;
+      }
+
+      .iphone-topbar{
+        display: none;
+      }
+      html.iphonex .iphone-topbar {
+        display: block;
+        top: 0;
+        left: 0;
+        /*background-color: #ff7800;*/
+        background: -webkit-linear-gradient(left, #fd7106 0%,#fc5504 100%);
+        background: linear-gradient(to right, #fd7106 0%,#fc5504 100%);
+        position: fixed;
+        height: 36px;
+        width: 100%;
+        z-index: 1000;
+      }
+      html.iphone .iphone-topbar {
+        display: block;
+        top: 0;
+        left: 0;
+        /*background-color: #ff7800;*/
+        background: -webkit-linear-gradient(left, #fd7106 0%,#fc5504 100%);
+        background: linear-gradient(to right, #fd7106 0%,#fc5504 100%);
+        position: fixed;
+        height: 20px;
+        width: 100%;
+        z-index: 1000;
+      }
+
+      html.iphonex #page-content-right {
+        margin-top: 36px !important;
+      }
+      html.iphone #page-content-right {
+        margin-top: 20px !important;
+      }
+
+      html.iphonex .search-wrapper{
+        margin-top: 36px;
+      }
+
+      body.inital-loader {
+        overflow: hidden;
+      }
+      #unsupported-device,
+      #inital-loader-container {
+        background-color: #ff7800;
+        position: absolute;
+        top:0;
+        left:0;
+        height:100%;
+        width: 100%;
+        z-index: 999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      #unsupported-device {
+        z-index: 998;
+        font-size: 20px;
+        color: #fff;
+        padding: 20px;
+      }
+      #inital-loader-container.hide{
+        display: none;
+      }
+      .fadeOut {
+        animation: fadeOut 1s;
+      }
+      .inital-loader-spinner,
+      .inital-loader-spinner:before,
+      .inital-loader-spinner:after {
+        border-radius: 50%;
+      }
+      .inital-loader-spinner {
+        color: #ffffff;
+        font-size: 11px;
+        text-indent: -99999em;
+        margin: 55px auto;
+        position: relative;
+        width: 10em;
+        height: 10em;
+        box-shadow: inset 0 0 0 1em;
+        transform: translateZ(0);
+      }
+      .inital-loader-spinner:before,
+      .inital-loader-spinner:after {
+        position: absolute;
+        content: '';
+      }
+      .inital-loader-spinner:before {
+        width: 5.2em;
+        height: 10.2em;
+        background: #ff7800;
+        border-radius: 10.2em 0 0 10.2em;
+        top: -0.1em;
+        left: -0.1em;
+        transform-origin: 5.2em 5.1em;
+        animation: load2 1s infinite ease 0.75s;
+      }
+      .inital-loader-spinner:after {
+        width: 5.2em;
+        height: 10.2em;
+        background: #ff7800;
+        border-radius: 0 10.2em 10.2em 0;
+        top: -0.1em;
+        left: 5.1em;
+        transform-origin: 0px 5.1em;
+        animation: load2 1s infinite ease;
+      }
+      @keyframes load2 {
+        0% {transform: rotate(0deg);}
+        100% {transform: rotate(360deg);}
+      }
+      @keyframes fadeOut {
+        0% {opacity: 1;}
+        100% {opacity: 0;}
+      }</style><link href="/css/app.4d645e85d6de77bc4d725c74105c1977.css" rel="stylesheet" /><script type="text/javascript" charset="utf-8" async="" src="/js/SportsEventsList.f2eade5d301cceeea32a.js"></script><script type="text/javascript" charset="utf-8" async="" src="/js/Clock.b7704428f334aba7ffbb.js"></script><script type="text/javascript" charset="utf-8" async="" src="/js/LiveChatLink.3968f8c881e6f762dd55.js"></script><script type="text/javascript" charset="utf-8" async="" src="/js/DepositNowLink.4aded67a013e166dc8b2.js"></script><style type="text/css">.desktop .future-events{background:#fff;padding:0;margin-top:20px}.desktop .future-events .section-title{position:relative;height:45px;line-height:45px;text-transform:uppercase;font-size:12px;font-weight:500;color:#ff7800;padding:0 20px}.desktop .future-events .section-content{position:relative;background:#fff;border-top:3px solid #ff7800;padding:0 20px}.desktop .future-events .event-wrapper a{text-transform:uppercase;width:auto;color:#ff7800;font-weight:400;display:block;line-height:40px}
+/*# sourceURL=/builds/ui/frontend/src/views/sports/future-events.vue */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9idWlsZHMvdWkvZnJvbnRlbmQvc3JjL3ZpZXdzL3Nwb3J0cy9mdXR1cmUtZXZlbnRzLnZ1ZSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSx3QkFDRSxnQkFBaUIsQUFDakIsVUFBVyxBQUNYLGVBQWlCLENBQ2xCLEFBQ0QsdUNBQ0Usa0JBQW1CLEFBQ25CLFlBQWEsQUFDYixpQkFBa0IsQUFDbEIseUJBQTBCLEFBQzFCLGVBQWdCLEFBQ2hCLGdCQUFpQixBQUNqQixjQUFlLEFBQ2YsY0FBZ0IsQ0FDakIsQUFDRCx5Q0FDRSxrQkFBbUIsQUFDbkIsZ0JBQWlCLEFBQ2pCLDZCQUE4QixBQUM5QixjQUFnQixDQUNqQixBQUNELHlDQUNFLHlCQUEwQixBQUMxQixXQUFZLEFBQ1osY0FBZSxBQUNmLGdCQUFpQixBQUNqQixjQUFlLEFBQ2YsZ0JBQWtCLENBQ25CIiwiZmlsZSI6ImZ1dHVyZS1ldmVudHMudnVlIiwic291cmNlc0NvbnRlbnQiOlsiXG4uZGVza3RvcCAuZnV0dXJlLWV2ZW50cyB7XG4gIGJhY2tncm91bmQ6ICNmZmY7XG4gIHBhZGRpbmc6IDA7XG4gIG1hcmdpbi10b3A6IDIwcHg7XG59XG4uZGVza3RvcCAuZnV0dXJlLWV2ZW50cyAuc2VjdGlvbi10aXRsZSB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgaGVpZ2h0OiA0NXB4O1xuICBsaW5lLWhlaWdodDogNDVweDtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbiAgZm9udC1zaXplOiAxMnB4O1xuICBmb250LXdlaWdodDogNTAwO1xuICBjb2xvcjogI2ZmNzgwMDtcbiAgcGFkZGluZzogMCAyMHB4O1xufVxuLmRlc2t0b3AgLmZ1dHVyZS1ldmVudHMgLnNlY3Rpb24tY29udGVudCB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgYmFja2dyb3VuZDogI2ZmZjtcbiAgYm9yZGVyLXRvcDogM3B4IHNvbGlkICNmZjc4MDA7XG4gIHBhZGRpbmc6IDAgMjBweDtcbn1cbi5kZXNrdG9wIC5mdXR1cmUtZXZlbnRzIC5ldmVudC13cmFwcGVyIGEge1xuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xuICB3aWR0aDogYXV0bztcbiAgY29sb3I6ICNmZjc4MDA7XG4gIGZvbnQtd2VpZ2h0OiA0MDA7XG4gIGRpc3BsYXk6IGJsb2NrO1xuICBsaW5lLWhlaWdodDogNDBweDtcbn1cbiJdLCJzb3VyY2VSb290IjoiIn0= */</style><style type="text/css">.deposit-now-link[data-v-be3bb478]{color:#fff;text-decoration:underline}
+/*# sourceURL=/builds/ui/frontend/src/components/core/deposit-now-link.vue */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9idWlsZHMvdWkvZnJvbnRlbmQvc3JjL2NvbXBvbmVudHMvY29yZS9kZXBvc2l0LW5vdy1saW5rLnZ1ZSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxtQ0FDRSxXQUFZLEFBQ1oseUJBQTJCLENBQzVCIiwiZmlsZSI6ImRlcG9zaXQtbm93LWxpbmsudnVlIiwic291cmNlc0NvbnRlbnQiOlsiXG4uZGVwb3NpdC1ub3ctbGlua1tkYXRhLXYtYmUzYmI0NzhdIHtcbiAgY29sb3I6ICNmZmY7XG4gIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */</style><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_14" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.14.js?utv=ut4.42.201709110443"></script><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_26" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.26.js?utv=ut4.42.201710272346"></script><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_30" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.30.js?utv=ut4.42.201712220428"></script><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_46" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.46.js?utv=ut4.42.201712180707"></script><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_48" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.48.js?utv=ut4.42.201712180707"></script><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_55" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.55.js?utv=ut4.42.201712180707"></script><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_60" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.60.js?utv=ut4.42.201712180707"></script><style type="text/css">@font-face{font-family:industry;src:url(https://use.typekit.net/af/dc96ce/00000000000000003b9adf57/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3) format("woff2"),url(https://use.typekit.net/af/dc96ce/00000000000000003b9adf57/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3) format("woff"),url(https://use.typekit.net/af/dc96ce/00000000000000003b9adf57/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3) format("opentype");font-weight:600;font-style:italic;}@font-face{font-family:industry;src:url(https://use.typekit.net/af/e2ba7c/00000000000000003b9adf5d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3) format("woff2"),url(https://use.typekit.net/af/e2ba7c/00000000000000003b9adf5d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3) format("woff"),url(https://use.typekit.net/af/e2ba7c/00000000000000003b9adf5d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3) format("opentype");font-weight:900;font-style:italic;}</style><script type="text/javascript" async="" charset="utf-8" id="utag_neds.main_61" src="//tags.tiqcdn.com/utag/neds/main/prod/utag.61.js?utv=ut4.42.201712180707"></script><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=neds/main/201712220428&amp;cb=1514377379783"></script><script type="text/javascript" charset="utf-8" async="" src="/js/PriceButton.e4f779aa37712ea6a74e.js"></script><style type="text/css">.odds.preselected{border:solid #ff7800}.odds:disabled:active{background-color:transparent;color:#ccc}
+/*# sourceURL=/builds/ui/frontend/src/components/core/price-button.vue */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9idWlsZHMvdWkvZnJvbnRlbmQvc3JjL2NvbXBvbmVudHMvY29yZS9wcmljZS1idXR0b24udnVlIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLGtCQUNFLG9CQUFzQixDQUN2QixBQUNELHNCQUNFLDZCQUE4QixBQUM5QixVQUFZLENBQ2IiLCJmaWxlIjoicHJpY2UtYnV0dG9uLnZ1ZSIsInNvdXJjZXNDb250ZW50IjpbIlxuLm9kZHMucHJlc2VsZWN0ZWQge1xuICBib3JkZXI6IHNvbGlkICNmZjc4MDA7XG59XG4ub2RkczpkaXNhYmxlZDphY3RpdmUge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDtcbiAgY29sb3I6ICNjY2M7XG59XG4iXSwic291cmNlUm9vdCI6IiJ9 */</style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/846601577/?random=1514377381707&amp;cv=8&amp;fst=1514377381707&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;eid=659238991&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=2&amp;u_tz=660&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;data=event%3Dgtag.config&amp;gtm=nbe&amp;frm=0&amp;url=https%3A%2F%2Fneds.com.au%2Fsports%2Fbasketball%2F8476024b-5c61-4769-bc50-7c0a5abc97a2%2F3c34d075-dc14-436d-bfc4-9272a49c2b39&amp;tiba=Neds%20-%20Basketball&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head><body class="sports sub-sports-event-list mobile-large mobile logged-out"><script type="text/javascript">if (true) {
+        window.utag_cfg_ovrd = {noview : true};   // no view event on load
+        (function(a,b,c,d){
+        a='//tags.tiqcdn.com/utag/neds/main/prod/utag.js';
+        b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+        })();
+      }</script><div id="inital-loader-container" class="hide"><div class="inital-loader-spinner"></div></div><div data-v-ef3b1b9e="" id="main" class="container-fluid"><header data-v-ef3b1b9e="" id="page-top" class="row"><aside data-v-ef3b1b9e="" id="brand-bar" class="page-top-inner logged-out flex-column"><a class="icon-menu">Menu</a> <a id="brand-logo">Neds</a> <a class="betslip-button"> 0 </a> <a class="login-button">Join / Login</a></aside> <nav data-v-996aca16="" data-v-ef3b1b9e="" id="page-top-nav" class="app-navigation flex-column"><a data-v-996aca16="" exact="" value="search" id="search-launcher" class="icon-search"><span data-v-996aca16="" class="label">Search</span></a> <div data-v-996aca16="" class="icon-next-to-go"><span data-v-996aca16="" class="label">Next To Go</span></div> <div data-v-996aca16="" class="icon-thoroughbred-racing"><span data-v-996aca16="" class="label">Racing</span></div> <div data-v-996aca16="" class="icon-sports active"><span data-v-996aca16="" class="label">Sports</span></div> <a data-v-996aca16="" href="/signup" class="join"><span data-v-996aca16="" class="label">Join Now</span></a> <!----></nav></header> <div data-v-ef3b1b9e="" id="page-content-sides" class="row justify-content-between no-gutters"><aside data-v-ef3b1b9e="" id="page-content-left" class="col hidden"><div data-v-ef3b1b9e="" class="page-content-left-inner d-flex flex-column"><div class="top-bar"><a class="neds-logo">Neds</a></div> <nav id="page-side-nav"><ul class="main-menu"><li><a href="/" class="icon-home-neds router-link-active" data-label="H">Home</a></li> <li><a href="/next-to-go" class="icon-next-to-go" data-label="N">Next To Go</a></li> <li><a href="/racing" class="icon-racing" data-label="R">Racing</a></li> <!----> <li><a href="/sports" class="icon-sports router-link-active" data-label="S">Sports</a></li> <li><a href="/sports#live" class="icon-live-betting" data-label="L">Live - In Play</a></li> <li><a href="/promotions" class="icon-promotions" data-label="P">Promotions</a></li> <li><a href="/multibuilder" class="icon-multi" data-label="M">Multi Builder</a></li> <li><a href="/mobile-download" class="icon-download-arrow" data-label="M">Get the Neds App</a></li></ul> <!----> <!----> <ul class="secondary-menu"><li><a href="/contact-us" class="">Contact Us</a></li> <li><a href="/howto" class="">How To</a></li> <li><a href="/blog/">Blog</a></li> <li><a href="" target="_blank">
+    Live Chat
+  </a></li> <li><a href="/rules-terms-and-conditions" class="">Rules, Terms &amp; Conditions</a></li> <li><a href="/responsible-gambling-policy" class="">Responsible Gambling</a></li></ul></nav></div> <!----></aside> <aside data-v-ef3b1b9e="" id="page-content-right" class="col hidden"><div data-v-ef3b1b9e="" class="betslip-section d-flex flex-column"><div class="top-bar"><!----> <a class="hide-betslip"></a> <button type="button" class="button-link text-right">Login / Join</button> <!----></div> <nav class="page-content-tabs"><ul class="page-content-tabs-inner betslip-tabs"><li class="inner-tab active"><span>Betslip</span></li> <li class="inner-tab inactive"><span>Pending Bets <!----></span></li> <hr class="tab-active-line" /></ul></nav> <div id="betslip" class="nobets empty"><div class="deposit-alert hidden"><p>Insufficient Funds - <a data-v-be3bb478="" href="#"><span data-v-be3bb478="" class="deposit-now-link">
+      Deposit Now
+    </span></a></p> <button class="close-button"><i aria-hidden="true" class="fa fa-times"></i></button></div> <strong class="betslip-empty">Betslip is empty</strong> <!----> <!----> <!----> <!----> <!----> <!----> <!----></div> <!----> <!----> <div class="modal-container" style="display: none;"><div id="quick-deposit" class="modal"><div class="inner-content-modal"><div class="inner-content-modal-top"><h3>Quick Deposit</h3> <button type="button" class="inner-modal-close-button"><i class="fa fa-times"></i></button></div> <div class="inner-content-modal-content"><form><div class="form-group"><input type="radio" name="deposit-option" id="deposit-cover-bet" /><label for="deposit-cover-bet">Enough to cover my bet ($320.00)</label></div> <div class="form-group"><input type="radio" name="deposit-option" id="deposit-other-amount" /><label for="deposit-other-amount" class="deposit-other-amount">Deposit other amount</label> <input type="number" name="deposit-amount" class="deposit-amount-input stake-input form-control" /> <small class="min-deposit">Minimum deposit is $5.00</small></div> <hr class="section-divider" /> <div class="form-group"><label for="deposit-method-select" class="deposit-method-card">Deposit Using:</label> <div class="select-field-wrapper"><div class="selected-payment-icon g-icon payment visa"></div> <select id="deposit-method-select" class="form-control"><option>4577 03XX XXXX 0067</option></select></div></div></form></div> <div class="inner-content-modal-footer"><button class="btn btn-clear-dark form-button">Cancel</button> <button class="btn btn-primary form-button">Deposit Now</button></div></div></div> <div class="modal-backdrop"></div></div></div></aside> <section data-v-ef3b1b9e="" id="page" class="col no-gutters"><section data-v-ef3b1b9e="" id="page-content" class="d-flex flex-column"><div data-v-ef3b1b9e="" class="page-content-inner"><div id="page-header" class=""><a href="javascript: history.back();" class="page-header-back"></a> <h1>Basketball</h1> </div> <div class="page-content-tabs"><ul class="page-content-tabs-inner betslip-tabs"><li class="inner-tab active"><a href="#round"><span>Round</span></a></li> <li class="inner-tab inactive"><a href="#futures"><span>Futures</span></a></li> <hr class="tab-active-line" /></ul></div> <div class="page-content-section"><div data-v-09fb15c9="" class="sports-competition-events-wrapper"><div data-v-09fb15c9="" class="section-title expanded"><h3 data-v-09fb15c9=""> December </h3></div> <div data-v-09fb15c9="" class="accordian-content-container section-content expanded" style="max-height: 50000px;"><div data-v-09fb15c9="" style="position: relative;"><div data-v-09fb15c9="" class="start-time">Thursday 28/12/2017</div> <div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/indiana-pacers-v-dallas-mavericks/5ebbd00d-ffce-48b0-883b-c0b2799f8bb3" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">11:00 </span> <span class="name-text">Indiana Pacers v Dallas Mavericks</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">9</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-indiana-pacers"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Indiana Pacers
+          </span></span></div> <div class="entrant-odds"><span>1.41</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-dallas-mavericks"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Dallas Mavericks
+          </span></span></div> <div class="entrant-odds"><span>3.00</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/charlotte-hornets-v-boston-celtics/646ce9b2-621e-4ec1-a40e-6eff5211db48" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">11:00 </span> <span class="name-text">Charlotte Hornets v Boston Celtics</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">9</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-charlotte-hornets"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Charlotte Hornets
+          </span></span></div> <div class="entrant-odds"><span>2.00</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-boston-celtics"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Boston Celtics
+          </span></span></div> <div class="entrant-odds"><span>1.85</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/atlanta-hawks-v-washington-wizards/561eb4ae-c189-4ee0-bf97-2a7a443cb13a" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">11:30 </span> <span class="name-text">Atlanta Hawks v Washington Wizards</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">9</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-atlanta-hawks"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Atlanta Hawks
+          </span></span></div> <div class="entrant-odds"><span>2.85</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-washington-wizards"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Washington Wizards
+          </span></span></div> <div class="entrant-odds"><span>1.45</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/minnesota-timberwolves-v-denver-nuggets/5a7c53ec-b949-4757-849d-1672112a3ecc" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">12:00 </span> <span class="name-text">Minnesota Timberwolves v Denver Nuggets</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">8</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-minnesota-timberwolves"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Minnesota Timberwolves
+          </span></span></div> <div class="entrant-odds"><span>1.45</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-denver-nuggets"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Denver Nuggets
+          </span></span></div> <div class="entrant-odds"><span>2.85</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/oklahoma-city-thunder-v-toronto-raptors/5d888e68-ff91-4724-b24c-77f4142ad44d" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">12:00 </span> <span class="name-text">Oklahoma City Thunder v Toronto Raptors</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">9</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-oklahoma-city-thunder"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Oklahoma City Thunder
+          </span></span></div> <div class="entrant-odds"><span>1.56</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-toronto-raptors"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Toronto Raptors
+          </span></span></div> <div class="entrant-odds"><span>2.50</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/chicago-bulls-v-new-york-knicks/78cde90c-d56b-4936-9f31-f780b96b016d" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">12:00 </span> <span class="name-text">Chicago Bulls v New York Knicks</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">9</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-chicago-bulls"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Chicago Bulls
+          </span></span></div> <div class="entrant-odds"><span>1.85</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-new-york-knicks"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            New York Knicks
+          </span></span></div> <div class="entrant-odds"><span>2.00</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/new-orleans-pelicans-v-brooklyn-nets/9b442829-1a11-4d86-b5bc-e6e0b67515dc" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">12:00 </span> <span class="name-text">New Orleans Pelicans v Brooklyn Nets</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">8</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-new-orleans-pelicans"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            New Orleans Pelicans
+          </span></span></div> <div class="entrant-odds"><span>1.18</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-brooklyn-nets"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Brooklyn Nets
+          </span></span></div> <div class="entrant-odds"><span>5.25</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/sacramento-kings-v-cleveland-cavaliers/26da9b4a-1ee6-4019-8f41-18886e76bb59" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">14:00 </span> <span class="name-text">Sacramento Kings v Cleveland Cavaliers</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">7</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-sacramento-kings"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Sacramento Kings
+          </span></span></div> <div class="entrant-odds"><span>4.50</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-cleveland-cavaliers"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Cleveland Cavaliers
+          </span></span></div> <div class="entrant-odds"><span>1.22</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/los-angeles-lakers-v-memphis-grizzlies/867921bc-7f08-4861-b2f1-fded5e307dcc" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">14:30 </span> <span class="name-text">Los Angeles Lakers v Memphis Grizzlies</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">9</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-los-angeles-lakers"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Los Angeles Lakers
+          </span></span></div> <div class="entrant-odds"><span>1.67</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-memphis-grizzlies"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Memphis Grizzlies
+          </span></span></div> <div class="entrant-odds"><span>2.25</span></div></button></div></div><div data-v-09fb15c9="" class="market-row"><div data-v-09fb15c9="" class="market-info"><a href="/sports/event/3c34d075-dc14-436d-bfc4-9272a49c2b39/golden-state-warriors-v-utah-jazz/e6d08feb-e036-410a-91ea-8038818f7f30" class="" data-v-09fb15c9=""><div class="event-name"><span class="start-time">14:30 </span> <span class="name-text">Golden State Warriors v Utah Jazz</span></div> <div class="markets-link"><div class="market-count-round"><span class="count-number right-chevron">8</span> <!----></div></div></a></div> <div data-v-09fb15c9="" class="price-row"><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-golden-state-warriors"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Golden State Warriors
+          </span></span></div> <div class="entrant-odds"><span>1.12</span></div></button><button class="odds odds-stack has-icon" data-v-09fb15c9=""><div class="entrant-name"><div class="team-logo"><div class="team-icon-basketball-nba-utah-jazz"></div></div> <span class="entrant-name-inner"><span class="entrant-name-cell">
+            Utah Jazz
+          </span></span></div> <div class="entrant-odds"><span>6.75</span></div></button></div></div><div class="resize-sensor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; z-index: -1; visibility: hidden;"><div class="resize-sensor-expand" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;"><div style="position: absolute; left: 0px; top: 0px; transition: 0s; width: 100000px; height: 100000px;"></div></div><div class="resize-sensor-shrink" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;"><div style="position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%"></div></div></div></div></div></div></div> <!----></div> <!----></section></section></div> <!----> <!----> <!----> <div data-v-ef3b1b9e=""><div id="loading-overlay" class="hidden"><div class="loading"></div></div></div> <div data-v-ef3b1b9e=""><!----> <!----> <!----> <div><!----> <!----> </div> <div><!----> <!----> </div> <div data-v-1b19f22a=""><!----> <!----> </div> <div data-v-1b5a315e=""><!----> <!----> </div> <div><!----> <!----> </div> <div><!----> <!----> </div> <div><!----> <!----> </div> <div id="toast"></div> <div data-v-4cdb0606="" class="maintenance"><!----> <!----> </div></div></div><div id="toast"></div><script type="text/javascript">(function () {
+        // DOM is ready
+        // Remove unsupported message if for IE 11 and below.
+        const unsupportedBrowserDetected = detectIE() &amp;&amp; detectIE() &lt; 12;
+        if (unsupportedBrowserDetected) {
+          // Remove loader so the unsupported device message is shown.
+          const initalLoaderEl = document.getElementById('inital-loader-container');
+          initalLoaderEl.parentNode.removeChild(initalLoaderEl);
+        } else {
+          // Remove unsupported device message as the device is supported.
+          const unsupportedDeviceEl = document.getElementById('unsupported-device');
+          unsupportedDeviceEl.parentNode.removeChild(unsupportedDeviceEl);
+        }
+
+        // Add iPhone class to the page (navigator.device added by native app).
+        const iphoneDetected = navigator &amp;&amp; navigator.device &amp;&amp; typeof navigator.device === 'string';
+        if (iphoneDetected) {
+          // Add iphone x class for the notch.
+          const device = navigator.device.toLowerCase();
+          if (device.includes('x')) {
+            document.querySelector('html').classList.add('iphonex');
+          } else {
+            // all others will be handled the same (for now) 8, 8+, 7+ , 7, 6+, 6, SE, 5
+            document.querySelector('html').classList.add('iphone');
+          }
+        } else {
+          // Remove the iphone topbar as it's not requried.
+          const iphoneTopbarEl = document.querySelector('.iphone-topbar');
+          iphoneTopbarEl.parentNode.removeChild(iphoneTopbarEl);
+        }
+      }());</script><script type="text/javascript" src="/js/manifest.77c502198e399654decd.js"></script><script type="text/javascript" src="/js/vendor.5541ba4426aace961ebe.js"></script><script type="text/javascript" src="/js/app.faaa6d47328bbc2e99d9.js"></script><iframe src="https://treaty.io/beta/cors/" style="position: fixed !important; bottom: 100% !important; left: 0px !important; visibility: hidden !important;"></iframe><script src="https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id=0&amp;txn_id=ny1xr&amp;events=%5B%5B%22pageview%22%2C%7B%22currency%22%3A%22AUD%22%7D%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;cache_bust=0.1230998095073601" type="text/javascript"></script></body></html>

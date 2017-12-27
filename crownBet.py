@@ -39,12 +39,10 @@ def createCrownBetNBAMatchups():
         teamOdds2 = teamOdds2.find("span", {"class":"bet-amount"}).text.strip()
         nameAndOdds2 = (teamName2, teamOdds2)
 
-        #then, create the currMatchup tuple and append it to the matchups list
+        #then, create the currMatchup tuple and append it to the matchups list,
+        #sorted by the highest odds first
         currMatchup = (nameAndOdds1, nameAndOdds2)
-        matchups.append(currMatchup)
+        sortedMatchup = sorted(currMatchup, key=lambda odds: odds[1], reverse=True)
+        matchups.append(sortedMatchup)
 
-
-
-    print(matchups)
-
-createCrownBetNBAMatchups()
+    return matchups
