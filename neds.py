@@ -18,8 +18,10 @@ def createNedsNBAMatchup():
     matchups = []
     currMatchup = ()
     pageHTML = importNedsNBAPage()
-    #
     # ###################################
+
+    output = open('nedsoutput.html','w')
+    output.write(pageHTML)
     # pageHTML = open('nedsoutput.html', 'r')
     # ###################################
     soup = BeautifulSoup(pageHTML, 'html5lib')

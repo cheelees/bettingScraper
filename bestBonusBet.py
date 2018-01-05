@@ -1,10 +1,11 @@
 from sportsbet import createSportsBetNBAMatchups
 from crownBet import createCrownBetNBAMatchups
 from neds import createNedsNBAMatchup
+from ubet import createUBetNBAMatchup
 from tabulate import tabulate
 import sys
 agencyFunctions = {'CrownBet' : createCrownBetNBAMatchups, 'SportsBet': createSportsBetNBAMatchups,
-'Neds': createNedsNBAMatchup}
+'Neds': createNedsNBAMatchup, 'UBet' : createUBetNBAMatchup}
 
 
 
@@ -47,9 +48,15 @@ def findBestOpponent(bonusTeam, agencies):
         if agency != bonusBetAgency:
         #And then loop through each pair of teams
             for teams in agencies[agency]:
+                #We changed it to just compare the teamName (e.g. instead of "Philadelphia 76ers",
+                #just compare "76ers"), because UBet is shit and they format their names weird
+                teamName = teams[0][0].split(' ')[1]
+
+                ###### if (teams[0][0] == bonusTeam[0] and \
+                ####### calculatePercent(bonusTeam[1], teams[1][1]) > highestPercent):
 
                 #If it's the matchup and the  percentage return is the highest,
-                if (teams[0][0] == bonusTeam[0] and \
+                if (teamName == bonusTeam[0].split(' ')[1] and \
                  calculatePercent(bonusTeam[1], teams[1][1]) > highestPercent):
                     #store the data of the best team.
                     found = True
@@ -111,7 +118,7 @@ def calculateBet(betList):
         betList[1], bet, betList[4]))
     return 0
 #First we choose which agency has the bonus bet
-agencies = ["CrownBet", "SportsBet", "Neds"]
+agencies = ["CrownBet", "SportsBet", "Neds", "UBet"]
 for agency in range(len(agencies)):
     print(str(agency+1) + ": " + agencies[agency])
 bonusBetAgency = agencies[int(input("Which agency has the bonus bet? "))-1]
