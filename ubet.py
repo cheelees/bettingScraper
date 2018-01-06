@@ -34,8 +34,12 @@ def createUBetNBAMatchup():
 
         #Then we find the "Head to head" section,
         headToHead = row.find('div', {"class":"ubet-sub-events-summary"})
+
         #And then we find the name and odds for each team, which are contained in divs
-        nameAndOddDivs = headToHead.findAll("div", {"class":"ubet-offer-win-only"})
+        try:
+            nameAndOddDivs = headToHead.findAll("div", {"class":"ubet-offer-win-only"})
+        except AttributeError:
+            return []
 
 
         #Then we retrieve the name and the odds, which are contained in spans of each divs
@@ -58,4 +62,5 @@ def createUBetNBAMatchup():
         sortedMatchup = sorted(currMatchup, key=lambda odds: odds[1], reverse=True)
         matchups.append(sortedMatchup)
 
+    print(matchups)
     return matchups

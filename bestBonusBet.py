@@ -50,13 +50,12 @@ def findBestOpponent(bonusTeam, agencies):
             for teams in agencies[agency]:
                 #We changed it to just compare the teamName (e.g. instead of "Philadelphia 76ers",
                 #just compare "76ers"), because UBet is shit and they format their names weird
-                teamName = teams[0][0].split(' ')[1]
+                teamName = teams[0][0].split(' ')[-1]
 
                 ###### if (teams[0][0] == bonusTeam[0] and \
                 ####### calculatePercent(bonusTeam[1], teams[1][1]) > highestPercent):
-
                 #If it's the matchup and the  percentage return is the highest,
-                if (teamName == bonusTeam[0].split(' ')[1] and \
+                if (teamName == bonusTeam[0].split(' ')[-1] and \
                  calculatePercent(bonusTeam[1], teams[1][1]) > highestPercent):
                     #store the data of the best team.
                     found = True
