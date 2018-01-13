@@ -62,5 +62,4 @@ def createUBetNBAMatchup():
         sortedMatchup = sorted(currMatchup, key=lambda odds: odds[1], reverse=True)
         matchups.append(sortedMatchup)
 
-    print(matchups)
     return matchups

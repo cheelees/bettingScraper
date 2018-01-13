@@ -6,6 +6,8 @@ def createSportsBetNBAMatchups():
     #Open up the page and parse it using beautifulsoup
     r = requests.get("https://www.sportsbet.com.au/betting/basketball-us?QuickLinks")
     data = r.text
+    # output = open("sportsbetoutput.html", 'w')
+    # output.write(data)
     soup = BeautifulSoup(data, "html5lib")
     completedMatchup = True
     matchups = []

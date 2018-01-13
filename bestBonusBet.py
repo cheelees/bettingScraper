@@ -54,6 +54,7 @@ def findBestOpponent(bonusTeam, agencies):
 
                 ###### if (teams[0][0] == bonusTeam[0] and \
                 ####### calculatePercent(bonusTeam[1], teams[1][1]) > highestPercent):
+
                 #If it's the matchup and the  percentage return is the highest,
                 if (teamName == bonusTeam[0].split(' ')[-1] and \
                  calculatePercent(bonusTeam[1], teams[1][1]) > highestPercent):

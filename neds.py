@@ -24,7 +24,7 @@ def createNedsNBAMatchup():
     output.write(pageHTML)
     # pageHTML = open('nedsoutput.html', 'r')
     # ###################################
-    soup = BeautifulSoup(pageHTML, 'html5lib')
+    soup = BeautifulSoup(pageHTML, 'lxml')
 
     teamDivs = soup.findAll('div', {"class":"price-row"})
 
@@ -45,4 +45,5 @@ def createNedsNBAMatchup():
         currMatchup = (nameAndOdds1, nameAndOdds2)
         sortedMatchup = sorted(currMatchup, key=lambda odds: odds[1], reverse=True)
         matchups.append(sortedMatchup)
+    print(matchups)
     return matchups
